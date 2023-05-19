@@ -9,7 +9,8 @@ public class Ejercicio2{
 			aux = A[i];
 			if(i - d >= 0){
 				arrayIzquierda[i-d] = aux;
-			}
+			}else{
+				arrayIzquierda[arrayIzquierda.length - Math.abs(i-d)] = aux;
 		}
 	}	
 }
