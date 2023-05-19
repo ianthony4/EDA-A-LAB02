@@ -5,6 +5,10 @@ public class Ejercicio2{
 		int d = 2;
 		int aux;
 		for(int i = 0; i < arrayIzquierda; i++){
+			
+			if(i - d >= 0){
+				
+			}
 		}
 	}	
 }
