@@ -4,5 +4,7 @@ public class Ejercicio2{
 		//caso prueba
 		int d = 2;
 		int aux;
+		for(int i = 0; i < arrayIzquierda; i++){
+		}
 	}	
 }
