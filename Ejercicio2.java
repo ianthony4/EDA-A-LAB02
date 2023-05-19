@@ -16,5 +16,6 @@ public class Ejercicio2{
 				arrayIzquierda[arrayIzquierda.length - Math.abs(i-d)] = aux;
 			}
 		}	
+		return arrayIzquierda;
 	}
 }
